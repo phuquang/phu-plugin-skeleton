@@ -9,7 +9,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       Phu Plugin
- * Plugin URI:        https://example.com/plugins/the-basics/
+ * Plugin URI:        https://github.com/phuquang/phu-plugin-skeleton
  * Description:       Handle the basics with this plugin.
  * Version:           1.0.0
  * Requires at least: 5.2
@@ -18,7 +18,7 @@
  * Author URI:        https://phuquang.mimup.net/
  * License:           GPL v2 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
- * Update URI:        https://example.com/my-plugin/
+ * Update URI:        https://github.com/phuquang/phu-plugin-skeleton
  * Text Domain:       phu-plugin
  * Domain Path:       /languages
  */
